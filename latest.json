@@ -1,0 +1,15 @@
+{
+  "build": 44,
+  "version": "0.1.0",
+  "notas": "Tarjetas: la cuota es el pago mínimo del extracto y los reversos deshacen la compra",
+  "apks": {
+    "arm64-v8a": {
+      "archivo": "cuentas-claras-arm64-v8a.apk",
+      "sha256": "584e87c20451d03dae44e4cea35509ee2717935eedbaf028605a130aafda8023"
+    },
+    "armeabi-v7a": {
+      "archivo": "cuentas-claras-armeabi-v7a.apk",
+      "sha256": "5cec795d0ee3635edc133d0e539f27d50a681c82a5bddd1cc286aa8aecd8bd0c"
+    }
+  }
+}
